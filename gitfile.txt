@@ -4,3 +4,4 @@ one refreshed our memory of the last class
 3. open a git repositories
 4. push our code from the local repository to the remote repo
 5. we are adding new line to this file
+git is an interesting course to learn 
