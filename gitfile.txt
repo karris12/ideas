@@ -6,3 +6,4 @@ one refreshed our memory of the last class
 5. we are adding new line to this file
 git is an interesting course to learn 
 showing the head movement ofr changes
+adding a new line of text from bugfix master
