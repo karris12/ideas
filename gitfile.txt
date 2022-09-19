@@ -8,3 +8,4 @@ git is an interesting course to learn
 showing the head movement ofr changes
 adding a new line of text from bugfix mastet it 
 it brigth and sunny day
+we are adding this new line from GUI
